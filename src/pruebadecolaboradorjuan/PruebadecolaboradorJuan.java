@@ -8,6 +8,7 @@ public class PruebadecolaboradorJuan {
         //Exito en las pruebas.
         //Prueba para Jose.
         // jose 
+        //Prueba de Merge.
     }
     
 }
